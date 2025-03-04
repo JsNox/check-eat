@@ -24,7 +24,7 @@ Con esta herramienta, puedes agregar productos al consumo, ajustar cantidades, c
 ## 📦 Instalación y Uso  
 1. **Clona el repositorio:**  
    ```sh
-   git clone https://github.com/tu-usuario/check-eat.git
+   git clone https://github.com/JsNox/check-eat.git
 
    cd check-eat
 
